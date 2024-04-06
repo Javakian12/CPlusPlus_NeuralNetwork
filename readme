@@ -1,0 +1,1 @@
+A simple multi-threaded neural network written in native C++. Network contains input layer, a hidden layer with bias, and an output layer with bias. Back propagation is multi-threaded to speed up computation.
